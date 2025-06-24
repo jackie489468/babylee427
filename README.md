@@ -1,3 +1,4 @@
 # babylee427
-coursera homework
-print("this is my first assignment")
+## coursera homework
+
+It's a markdown file in this repository.
